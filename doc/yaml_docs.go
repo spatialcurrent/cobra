@@ -21,8 +21,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/spf13/cobra"
-	"github.com/spf13/pflag"
+	"github.com/spatialcurrent/cobra"
+	"github.com/spatialcurrent/pflag"
 	"gopkg.in/yaml.v2"
 )
 

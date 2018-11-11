@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/spf13/viper"
+	"github.com/spatialcurrent/viper"
 )
 
 // TestGoldenAddCmd initializes the project "github.com/spf13/testproject"

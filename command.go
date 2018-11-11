@@ -24,7 +24,7 @@ import (
 	"sort"
 	"strings"
 
-	flag "github.com/spf13/pflag"
+	flag "github.com/spatialcurrent/pflag"
 )
 
 // FParseErrWhitelist configures Flag parse errors to be ignored

@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/cpuguy83/go-md2man/md2man"
-	"github.com/spf13/cobra"
-	"github.com/spf13/pflag"
+	"github.com/spatialcurrent/cobra"
+	"github.com/spatialcurrent/pflag"
 )
 
 // GenManTree will generate a man page for this command and all descendants

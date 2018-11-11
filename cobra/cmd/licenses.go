@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/spf13/viper"
+	"github.com/spatialcurrent/viper"
 )
 
 // Licenses contains all possible licenses a user can choose from.

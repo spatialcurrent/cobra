@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/spf13/pflag"
+	"github.com/spatialcurrent/pflag"
 )
 
 // Annotations for Bash completion.
